@@ -1,3 +1,16 @@
 Node.js has a built in module called HTTP, which allows Node.js to transfer data over the Hyper Text Transfer Protocol (HTTP).
 Node.js console module is a global object that provides a simple debugging console similar to JavaAcript to display different levels of message.
 Node.js events is a asynchronouse event-driven JavaScript runtime which can perform asynchronous tasks.
+
+
+questions
+
+1. This project took me about 3 hours total to finish the project.
+
+2. i used ws3 schools and geeksforgeeks as some sources for research.
+
+3. i did not ask any friends for help on this project.
+
+4. i did not ask any teachers for help either.
+
+5. i would say the difficulty was about a 6/10 for the questions. i did a nice bit of research to finish these questions and overall it was a good challenge.
