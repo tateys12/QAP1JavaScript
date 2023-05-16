@@ -1,0 +1,3 @@
+Node.js has a built in module called HTTP, which allows Node.js to transfer data over the Hyper Text Transfer Protocol (HTTP).
+Node.js console module is a global object that provides a simple debugging console similar to JavaAcript to display different levels of message.
+Node.js events is a asynchronouse event-driven JavaScript runtime which can perform asynchronous tasks.
